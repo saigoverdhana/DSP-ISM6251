@@ -6,7 +6,6 @@
 	<h1>Data Science Programming</h1>
 </head>
 <body>
-	<h1>Data Science Programming Course</h1>
 	<p>This course is designed to introduce programming concepts and tools that are commonly used in data science projects. The course covers a wide range of topics, from basic programming skills in Python to advanced machine learning techniques.</p>
 	<h2>Introduction to Course</h2>
 	<p>In this course, the fundamental concepts of programming and data science, including data manipulation, visualization, and modeling. I learnt how to use Python programming language to implement machine learning algorithms and build predictive models.</p>
